@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+    color: greenyellow;
+    text-align: center;
+}
+
+#page-number{
+    color: red;
+}
